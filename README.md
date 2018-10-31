@@ -2,7 +2,7 @@ GitlabVisibilitySetter
 ====================================
 
 GitlabVisibilitySetter is a script to make all repositories on Gitlab publicly accessible. (Useful for all that are [#movingtogitlab](https://twitter.com/hashtag/movingtogitlab?lang=en))
-The script was written and tested in Python 3.6.5.
+The script was written and tested in Python 3.7.1.
 
 [![Build status](https://ci.appveyor.com/api/projects/status/mc210w5866dgt9wi?svg=true)](https://ci.appveyor.com/project/SeppPenner/gitlabvisibilitysetter)
 [![GitHub issues](https://img.shields.io/github/issues/SeppPenner/GitlabVisibilitySetter.svg)](https://github.com/SeppPenner/GitlabVisibilitySetter/issues)
@@ -20,7 +20,13 @@ The script was written and tested in Python 3.6.5.
 userName = "YourUserName"
 token = "1234567890"
 ```
-5. Run the project using:
+
+5. Install all required pip package dependencies with:
+```python
+pip install -r requirements.txt
+```
+
+6. Run the project using:
 ```bash
 python GitlabVisibilitySetter.py
 ```
