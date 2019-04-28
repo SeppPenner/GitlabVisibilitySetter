@@ -2,13 +2,14 @@ GitlabVisibilitySetter
 ====================================
 
 GitlabVisibilitySetter is a script to make all repositories on Gitlab publicly accessible. (Useful for all that are [#movingtogitlab](https://twitter.com/hashtag/movingtogitlab?lang=en))
-The script was written and tested in Python 3.7.1.
+The script was written and tested in Python 3.7.3.
 
 [![Build status](https://ci.appveyor.com/api/projects/status/mc210w5866dgt9wi?svg=true)](https://ci.appveyor.com/project/SeppPenner/gitlabvisibilitysetter)
 [![GitHub issues](https://img.shields.io/github/issues/SeppPenner/GitlabVisibilitySetter.svg)](https://github.com/SeppPenner/GitlabVisibilitySetter/issues)
 [![GitHub forks](https://img.shields.io/github/forks/SeppPenner/GitlabVisibilitySetter.svg)](https://github.com/SeppPenner/GitlabVisibilitySetter/network)
 [![GitHub stars](https://img.shields.io/github/stars/SeppPenner/GitlabVisibilitySetter.svg)](https://github.com/SeppPenner/GitlabVisibilitySetter/stargazers)
 [![GitHub license](https://img.shields.io/badge/license-AGPL-blue.svg)](https://raw.githubusercontent.com/SeppPenner/GitlabVisibilitySetter/master/License.txt)
+[![Known Vulnerabilities](https://snyk.io/test/github/SeppPenner/GitlabVisibilitySetter/badge.svg)](https://snyk.io/test/github/SeppPenner/GitlabVisibilitySetter) 
 
 # Steps to use this script:
 1. Migrate your projects from github to gitlab: https://docs.gitlab.com/ee/user/project/import/github.html
