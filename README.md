@@ -8,7 +8,7 @@ The script was written and tested in Python 3.7.4.
 [![GitHub issues](https://img.shields.io/github/issues/SeppPenner/GitlabVisibilitySetter.svg)](https://github.com/SeppPenner/GitlabVisibilitySetter/issues)
 [![GitHub forks](https://img.shields.io/github/forks/SeppPenner/GitlabVisibilitySetter.svg)](https://github.com/SeppPenner/GitlabVisibilitySetter/network)
 [![GitHub stars](https://img.shields.io/github/stars/SeppPenner/GitlabVisibilitySetter.svg)](https://github.com/SeppPenner/GitlabVisibilitySetter/stargazers)
-[![GitHub license](https://img.shields.io/badge/license-AGPL-blue.svg)](https://raw.githubusercontent.com/SeppPenner/GitlabVisibilitySetter/master/License.txt)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://raw.githubusercontent.com/SeppPenner/GitlabVisibilitySetter/master/License.txt)
 [![Known Vulnerabilities](https://snyk.io/test/github/SeppPenner/GitlabVisibilitySetter/badge.svg)](https://snyk.io/test/github/SeppPenner/GitlabVisibilitySetter) 
 
 # Steps to use this script:
